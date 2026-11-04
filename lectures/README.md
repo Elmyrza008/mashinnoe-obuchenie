@@ -15,7 +15,7 @@
 | 7 | Добавить тему | — | — |
 | 8 | Добавить тему | — | — |
 | 9 | Случайный лес | — | [Практика 7](../notebooks/practice_07_random_forest.ipynb) |
-| 10 | Градиентный бустинг | — | [Практика 8](../notebooks/practice_08_gradient_boosting.ipynb) |
+| 10 | Градиентный бустинг | [Конспект](lecture_10_gradient_boosting.md) | [Практика 8](../notebooks/practice_08_gradient_boosting.ipynb) |
 | 11 | Метод опорных векторов | — | [Практика 9](../notebooks/practice_09_svm.ipynb) |
 | 12 | Кластеризация | — | [Практика 10](../notebooks/practice_10_clustering.ipynb) |
 | 13 | Понижение размерности и PCA | — | [Практика 11](../notebooks/practice_11_pca.ipynb) |
